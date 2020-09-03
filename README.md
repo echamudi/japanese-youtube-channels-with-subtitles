@@ -18,6 +18,7 @@ The videos in the listed channels can be useful as listening practice materials 
 
 - [ANNnewsCH](https://www.youtube.com/user/ANNnewsCH) (in description)
 - [日南テレビ！](https://www.youtube.com/c/nichinantv) (in description)
+- [仙台放送ニュースチャンネル](https://www.youtube.com/channel/UClElfQ7F1QndkPEFuqrDCLQ) (in description)
 
 ### Tech 
 
@@ -35,4 +36,5 @@ The videos in the listed channels can be useful as listening practice materials 
 ### Other
 
 - [ワンダーストーリー](https://www.youtube.com/channel/UCekVu13Amhgv6WBgO9qqtxA) (in video)
+- [JNW-世界から見た日本](https://www.youtube.com/channel/UCRKfHvSR4M5vUsSIk-SEAOw) (in video)
 - [セカイノフシギ](https://www.youtube.com/channel/UCssKsQJRvogzRS1U3Q9JG6Q) (in video)
