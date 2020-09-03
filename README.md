@@ -32,7 +32,7 @@ The videos in the listed channels can be useful as listening practice materials 
 
 - [FUJIWARA LIFE・美容師の日常](https://www.youtube.com/channel/UCpa-kEaXFILCfIpR3ge4InQ) (in video)
 
-### Others
+### Other
 
 - [ワンダーストーリー](https://www.youtube.com/channel/UCekVu13Amhgv6WBgO9qqtxA) (in video)
 - [セカイノフシギ](https://www.youtube.com/channel/UCssKsQJRvogzRS1U3Q9JG6Q) (in video)
