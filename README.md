@@ -44,8 +44,8 @@ The videos in the listed channels can be useful as listening practice materials 
 
 ### Cartoon/Comics
 
-- [モナ・リザの戯言](https://www.youtube.com/channel/UCSSkv6tmPpi8d1IrWegypsA)
-- [エトラちゃんは見た!](https://www.youtube.com/c/%E3%82%A8%E3%83%88%E3%83%A9%E3%81%A1%E3%82%83%E3%82%93%E3%81%AF%E8%A6%8B%E3%81%9F)
+- [モナ・リザの戯言](https://www.youtube.com/channel/UCSSkv6tmPpi8d1IrWegypsA) (in video)
+- [エトラちゃんは見た!](https://www.youtube.com/c/%E3%82%A8%E3%83%88%E3%83%A9%E3%81%A1%E3%82%83%E3%82%93%E3%81%AF%E8%A6%8B%E3%81%9F) (in video)
 - [ワンダーストーリー](https://www.youtube.com/channel/UCekVu13Amhgv6WBgO9qqtxA) (in video)
 - [JNW-世界から見た日本](https://www.youtube.com/channel/UCRKfHvSR4M5vUsSIk-SEAOw) (in video)
 - [セカイノフシギ](https://www.youtube.com/channel/UCssKsQJRvogzRS1U3Q9JG6Q) (in video)
