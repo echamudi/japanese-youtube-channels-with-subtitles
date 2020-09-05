@@ -19,7 +19,7 @@ The videos in the listed channels can be useful as listening practice materials 
 - [ANNnewsCH](https://www.youtube.com/user/ANNnewsCH) (in description)
 - [日南テレビ！](https://www.youtube.com/c/nichinantv) (in description)
 - [仙台放送ニュースチャンネル](https://www.youtube.com/channel/UClElfQ7F1QndkPEFuqrDCLQ) (in description)
-
+- [FNNプライムオンライン](https://www.youtube.com/channel/UCoQBJMzcwmXrRSHBFAlTsIw) (in description)
 ### Tech 
 
 - [Gazyekichi VLOG](https://www.youtube.com/channel/UCOwj40LV2WWlaUjOHjm8zoA) (in video)
@@ -44,6 +44,8 @@ The videos in the listed channels can be useful as listening practice materials 
 
 ### Cartoon/Comics
 
+- [モナ・リザの戯言](https://www.youtube.com/channel/UCSSkv6tmPpi8d1IrWegypsA)
+- [エトラちゃんは見た!](https://www.youtube.com/c/%E3%82%A8%E3%83%88%E3%83%A9%E3%81%A1%E3%82%83%E3%82%93%E3%81%AF%E8%A6%8B%E3%81%9F)
 - [ワンダーストーリー](https://www.youtube.com/channel/UCekVu13Amhgv6WBgO9qqtxA) (in video)
 - [JNW-世界から見た日本](https://www.youtube.com/channel/UCRKfHvSR4M5vUsSIk-SEAOw) (in video)
 - [セカイノフシギ](https://www.youtube.com/channel/UCssKsQJRvogzRS1U3Q9JG6Q) (in video)
