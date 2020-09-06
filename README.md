@@ -20,6 +20,7 @@ The videos in the listed channels can be useful as listening practice materials 
 - [日南テレビ！](https://www.youtube.com/c/nichinantv) (in description)
 - [仙台放送ニュースチャンネル](https://www.youtube.com/channel/UClElfQ7F1QndkPEFuqrDCLQ) (in description)
 - [FNNプライムオンライン](https://www.youtube.com/channel/UCoQBJMzcwmXrRSHBFAlTsIw) (in description)
+
 ### Tech 
 
 - [Gazyekichi VLOG](https://www.youtube.com/channel/UCOwj40LV2WWlaUjOHjm8zoA) (in video)
@@ -43,18 +44,23 @@ The videos in the listed channels can be useful as listening practice materials 
 
 - [公式 お金の専門学校](https://www.youtube.com/channel/UCCEoqaOzY9__AReWKXrvt8Q) (in video)
 
-### Cartoon/Comics
+### Cartoon News
+
+- [ワンダーストーリー](https://www.youtube.com/channel/UCekVu13Amhgv6WBgO9qqtxA) (in video)
+- [JNW-世界から見た日本](https://www.youtube.com/channel/UCRKfHvSR4M5vUsSIk-SEAOw) (in video)
+
+### Comic Stories
 
 - [モナ・リザの戯言](https://www.youtube.com/channel/UCSSkv6tmPpi8d1IrWegypsA) (in video)
 - [エトラちゃんは見た!](https://www.youtube.com/c/%E3%82%A8%E3%83%88%E3%83%A9%E3%81%A1%E3%82%83%E3%82%93%E3%81%AF%E8%A6%8B%E3%81%9F) (in video)
-- [ワンダーストーリー](https://www.youtube.com/channel/UCekVu13Amhgv6WBgO9qqtxA) (in video)
-- [JNW-世界から見た日本](https://www.youtube.com/channel/UCRKfHvSR4M5vUsSIk-SEAOw) (in video)
 - [セカイノフシギ](https://www.youtube.com/channel/UCssKsQJRvogzRS1U3Q9JG6Q) (in video)
 - [ネタざんまい](https://www.youtube.com/channel/UCEOnMHeEy33wYE-yffgY1mQ) (in video)
 - [アシタノワダイ](https://www.youtube.com/channel/UC-kF1uMFhIfvw6seHqDGwkg) (in video)
 - [フェルミ研究所 FermiLab](https://www.youtube.com/channel/UC3-1iYGHfR43q_b974vUNYg) (in video)
 - [ゆらんchannel](https://www.youtube.com/channel/UCd-vf-aHzw1B-ZKdvtAffnA) (in video)
 - [漆黒のジェイル〜Jet Black Prison〜](https://www.youtube.com/channel/UCl0kVjsyAaDciLa4Bw2o3ag) (in video)
+- [3時のつまみ](https://www.youtube.com/channel/UCeLVuDVC1mwqnuc1AV56Xig) (in video)
+- [バズマンガ](https://www.youtube.com/channel/UCfLYAln1vk0yhJE7thI2JIg) (in video)
 
 ### Other
 
