@@ -35,6 +35,7 @@ The videos in the listed channels can be useful as listening practice materials 
 
 - [学校では学べない大切なこと](https://www.youtube.com/channel/UCX78gScd1RzGn6RVsAWw5iQ/featured) (YouTube CC)
 - [ブレイクスルー佐々木](https://www.youtube.com/channel/UCORW3zZTUVdVwlY5Mnk8q9Q) (in video)
+- [りゅうの留学英語チャンネル](https://www.youtube.com/channel/UCYwbkpClkTZHrdokM6mTISA) (in video)
 
 ### Programming
 
