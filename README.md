@@ -68,5 +68,5 @@ The videos in the listed channels can be useful as listening practice materials 
 - [KAITOストーリー](https://www.youtube.com/channel/UChsqu8g9SRU9GDvw4EExTyQ) (in video)
 - [人気芸人お笑い字幕付き動画](https://www.youtube.com/channel/UCl21oTCRmrX0v_t6XiihUWg/featured) (in video)
 - [裁判所(COURTS IN JAPAN)](https://www.youtube.com/user/courtsjapan) (in video)
-- [ジェルOfficial](https://www.youtube.com/channel/UCE0UZVTfvQ8jiNxdIlLeWeA)
+- [ジェルOfficial](https://www.youtube.com/channel/UCE0UZVTfvQ8jiNxdIlLeWeA) (in video)
 
